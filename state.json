@@ -1,0 +1,149 @@
+{
+    "0xa4c13899c59adb05": {
+        "battery": 59,
+        "voltage": 2700,
+        "contact": true,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 175
+    },
+    "0xb4e3f9fffea0dda5": {
+        "state": "OFF",
+        "power_on_behavior": "previous",
+        "update": {
+            "state": "idle",
+            "installed_version": 587765297,
+            "latest_version": 587765297
+        },
+        "update_available": false,
+        "linkquality": 255
+    },
+    "0xa4c1384e9cd93257": {
+        "battery": 100,
+        "voltage": 2900,
+        "contact": true,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 255
+    },
+    "0xa4c138058c18131d": {
+        "battery": 50,
+        "voltage": 2700,
+        "contact": false,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 255
+    },
+    "0xa4c13895679d3fad": {
+        "battery": 100,
+        "voltage": 2800,
+        "contact": true,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 255
+    },
+    "0xa4c138ca967aaa82": {
+        "battery": 85,
+        "voltage": 2900,
+        "contact": true,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 255
+    },
+    "0x0c4314fffe369bf3": {
+        "update": {
+            "state": "idle",
+            "installed_version": 587765297,
+            "latest_version": 587765297
+        },
+        "update_available": false,
+        "state": "OFF",
+        "linkquality": 255,
+        "power_on_behavior": "on"
+    },
+    "0x00158d0007e60d87": {
+        "temperature": 28.55,
+        "humidity": 49.99,
+        "pressure": 1015.4,
+        "linkquality": 255,
+        "voltage": 3025,
+        "battery": 100,
+        "power_outage_count": 13
+    },
+    "0x00158d0007ed779e": {
+        "temperature": 29.54,
+        "humidity": 41.22,
+        "pressure": 1004.5,
+        "voltage": 3025,
+        "battery": 100,
+        "power_outage_count": 14,
+        "linkquality": 255
+    },
+    "0xa4c138fcf6b1ef40": {
+        "contact": true,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 255
+    },
+    "0x84ba20fffe934d72": {
+        "battery": 47,
+        "occupancy": false,
+        "illuminance_above_threshold": false,
+        "update": {
+            "state": "idle",
+            "installed_version": 537011747,
+            "latest_version": 537011747
+        },
+        "update_available": false,
+        "linkquality": 255
+    },
+    "0xb4e3f9fffea02db5": {
+        "occupancy": false,
+        "illuminance_above_threshold": false,
+        "battery": 87,
+        "update": {
+            "state": "idle",
+            "installed_version": 537011747,
+            "latest_version": 537011747
+        },
+        "update_available": false,
+        "linkquality": 255
+    },
+    "0x50325ffffe6b54ea": {
+        "battery": 100,
+        "update": {
+            "state": "available",
+            "installed_version": 587286065,
+            "latest_version": 604241925
+        },
+        "update_available": true,
+        "linkquality": 215
+    },
+    "0x50325ffffe6c9daa": {
+        "battery": 60,
+        "update": {
+            "state": "available",
+            "installed_version": 570492465,
+            "latest_version": 587699761
+        },
+        "update_available": true,
+        "linkquality": 255
+    },
+    "0x54ef441000459014": {
+        "led_indicator": "ON",
+        "serving_size": 3,
+        "portion_weight": 20,
+        "feed": "",
+        "feeding_source": "remote",
+        "feeding_size": 3,
+        "portions_per_day": 12,
+        "weight_per_day": 240,
+        "error": false,
+        "child_lock": "UNLOCK",
+        "schedule": [
+            {}
+        ],
+        "linkquality": 255,
+        "mode": "manual"
+    }
+}

@@ -1,0 +1,45 @@
+homeassistant: true
+permit_join: false
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://10.10.10.104:1883
+  user: integration
+  password: VacationLinguistAtopSurvivor
+serial:
+  port: /dev/ttyACM0
+  adapter: deconz
+frontend:
+  port: 9442
+devices:
+  '0xa4c13899c59adb05':
+    friendly_name: livingroom_window_sensor_1
+  '0xb4e3f9fffea0dda5':
+    friendly_name: livingroom_misery_plug
+  '0xa4c1384e9cd93257':
+    friendly_name: kitchen_window_sensor
+  '0xa4c138058c18131d':
+    friendly_name: balcony_livingroomdoor_sensor
+  '0xa4c13895679d3fad':
+    friendly_name: frontdoor_door_sensor
+  '0xa4c138ca967aaa82':
+    friendly_name: livingroom_window_sensor_2
+  '0x0c4314fffe369bf3':
+    friendly_name: kitchen_cunt_plug
+  '0x00158d0007e60d87':
+    friendly_name: bathroom_sensor
+  '0x00158d0007ed779e':
+    friendly_name: balcony_sensor
+  '0xa4c138fcf6b1ef40':
+    friendly_name: balcony_bedroomdoor_sensor
+  '0x84ba20fffe934d72':
+    friendly_name: livingroom_motion_1
+  '0xb4e3f9fffea02db5':
+    friendly_name: bathroom_motion_1
+  '0x50325ffffe6b54ea':
+    friendly_name: bedroom_controller
+  '0x50325ffffe6c9daa':
+    friendly_name: bathroom_kittylitter_switch
+  '0x54ef441000459014':
+    friendly_name: kitchen_cat_feeder
+ota:
+  ikea_ota_use_test_url: false
